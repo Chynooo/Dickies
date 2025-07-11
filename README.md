@@ -1,0 +1,2 @@
+# Dickies
+proyecto inventario zapatilla.
